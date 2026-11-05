@@ -1,0 +1,4 @@
+numpy
+networkx
+plotly
+ipywidgets
